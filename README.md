@@ -1,4 +1,4 @@
-# Sync-Inetrn-s
+# Sync-Intern-s
 
 Working on following projects:
 - Face Mask Detection: model Used- Neural Network
